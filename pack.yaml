@@ -1,6 +1,6 @@
 ---
-ref: snmpack
-name: Snmp StackStorm
+ref: sensorpack
+name: Sensor Stress StackStorm
 description: Simple pack snmp sensor.
 keywords:
     - example
